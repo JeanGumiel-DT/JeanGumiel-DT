@@ -1,4 +1,4 @@
-# Hi there, I'm Jean Gumiel 👋
+# Hola, mi nombre es Jean Gumiel. Estoy empezando en el mundo de desarrollo, estoy ansioso y muy emocionado con lo que voy aprendiendo. 👋
 
 <!--
 **JeanGumiel-DT/JeanGumiel-DT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
